@@ -1,0 +1,142 @@
+.retangulo1{
+    width: auto;
+    height: 91px;
+    background-color: #008374;
+    align-items: center;
+display: flex;
+    }
+
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+color: #ffffff;
+width: 473px;
+height: 43px;
+top: 24px;
+left: 147px;
+margin-left: 250px;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.opcao{
+    margin-left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+}
+.opcao2{
+    margin-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+}
+.opcao3{
+    margin-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+}
+.retangulo2{
+    display: flex;
+
+    
+    background-color: #23A092;
+    height: 800px;
+    top: 91px;
+ }
+ .contato{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 30px;
+    margin-left: 250px;
+    color: #ffffff;
+    font-weight: bolder;
+    margin-top: 70px;
+ }
+ .cnt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 20px;
+    margin-left: 250px;
+    color: #ffffff;
+   
+   
+ }
+ .name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 20px;
+    margin-left: 400px;
+    color: #ffffff;
+    margin-top: 50px;
+    font-weight: bold;
+
+ }
+ .input{
+    padding: 10px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+.input1{
+    padding: 10px;
+   border-radius: 10px;
+   margin-left: 400px;
+   margin-top: 80px;
+   width: 250px;
+}
+.email{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 20px;
+    margin-left: 400px;
+    color: #ffffff;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.telefone{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 20px;
+    margin-left: 400px;
+    color: #ffffff;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.retangulo3{
+    width: auto;
+height: 313px;
+background-color: #008374;
+padding: 40px;
+display: flex;
+}
+.opcoes{
+    margin-left: 241px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #ffffff;
+    font-size: 30px;
+}
+.inscreva{
+    margin-left: 400px;
+    color: #ffffff;
+    font-size: 30px;
+    margin-right: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.formulario{
+    padding: 10px;
+    width: 400px;
+    border-radius: 15px;
+}
+.formulario1{
+    padding: 10px;
+   border-radius: 15px;
+
+}
+.aul{
+    color: #ffffff;
+    text-decoration: none;
+}
